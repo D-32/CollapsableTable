@@ -96,6 +96,7 @@ Official binary releases are declared within the [Releases](https://github.com/r
 
 <details>
 <summary>Something like this</summary>
+
 ```objective-c
 -(UITableView *)collapsableTableView {
     return self.tableView;
